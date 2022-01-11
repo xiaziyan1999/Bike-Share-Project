@@ -23,7 +23,7 @@ Start Station \
 End Station \
 Bike Number \
 Member Type \
-Having electric bikes or not, etc.\
+Having electric bikes or not, etc.
 
 
 Additional effort: \
@@ -31,7 +31,7 @@ Retrieved weather data of Washington DC from NOAA website: \
 Precipitation \
 Temperature \
 Wind level \
-etc…\
+etc…
 
 Utilized Capital Bikeshare’s API to retrieve
 Longitude and latitude of each station
