@@ -23,7 +23,7 @@ Start Station \
 End Station \
 Bike Number \
 Member Type \
-Having electric bikes or not, etc. \
+Having electric bikes or not, etc.\
 
 
 Additional effort: \
@@ -31,7 +31,7 @@ Retrieved weather data of Washington DC from NOAA website: \
 Precipitation \
 Temperature \
 Wind level \
-etc… \
+etc…\
 
 Utilized Capital Bikeshare’s API to retrieve
 Longitude and latitude of each station
@@ -40,7 +40,7 @@ Total capacity of each station \
 
 
 
-
+## Code
 
 Data Preprocessing is done using Python in Jupyter Notebook for speed and efficiency in processing
 - data_preprocessing_1.ipynb: First step of the data transformation stage using raw data.
